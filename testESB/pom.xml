@@ -144,7 +144,7 @@
         </dependency>
     </dependencies>
 
-	<!--repositories>
+	<repositories>
           <repository>
             <id>Central</id>
             <name>Central</name>
@@ -169,8 +169,8 @@
                 <enabled>false</enabled>
             </snapshots>
         </pluginRepository>
-    </pluginRepositories-->
-	<repositories>
+    </pluginRepositories>
+	<!--repositories>
           <repository>
             
 			<id>my_repo2</id>
@@ -178,6 +178,6 @@
 		  
 
         </repository>
-	</repositories>
+	</repositories-->
 
 </project>
